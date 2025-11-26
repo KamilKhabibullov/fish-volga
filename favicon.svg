@@ -1,0 +1,22 @@
+<svg width="64" height="64" viewBox="0 0 800 600" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="600" fill="#ffffff"/>
+  
+  <!-- Удочка (слева) -->
+  <path d="M 80 50 Q 120 100 150 200" stroke="#1e3a5f" stroke-width="8" fill="none" stroke-linecap="round"/>
+  <circle cx="80" cy="50" r="6" fill="#1e3a5f"/>
+  <circle cx="150" cy="200" r="8" fill="#1e3a5f"/>
+  <path d="M 150 200 L 160 220" stroke="#1e3a5f" stroke-width="6" fill="none" stroke-linecap="round"/>
+  
+  <!-- Рыба (осётр) справа -->
+  <ellipse cx="620" cy="270" rx="120" ry="70" fill="#1e3a5f"/>
+  <path d="M 720 250 L 760 220 L 740 260 Z" fill="#1e3a5f"/>
+  <path d="M 580 240 L 560 210 L 590 230 Z" fill="#1e3a5f"/>
+  <path d="M 540 290 L 510 310 L 550 300 Z" fill="#1e3a5f"/>
+  <circle cx="580" cy="260" r="4" fill="#ffffff"/>
+  
+  <!-- FISH текст -->
+  <text x="220" y="290" font-family="Arial, sans-serif" font-size="140" font-weight="900" fill="#1e3a5f">FISH</text>
+  
+  <!-- VOLGA текст -->
+  <text x="220" y="400" font-family="Arial, sans-serif" font-size="90" font-weight="700" fill="#1e3a5f">VOLGA</text>
+</svg>
